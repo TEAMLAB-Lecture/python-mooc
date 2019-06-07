@@ -1,4 +1,4 @@
-[공지] Python MOOC Lab for Tough Week
+# [공지] Python MOOC Lab for Tough Week
 
 2019년 1학기 Python MOOC 수강자들에게 알립니다.
 마지막 주인 15주차는 공지한대로 Tough Week을 위한 두 개의 과제가 있습니다.
@@ -6,8 +6,6 @@
 
 매우 어렵습니다. 자신이 파이썬을 충분히 능숙해졌다고 생각하시는 분들만 도전하시기 바랍니다.
 이번 과제에서 치팅이 발견될 경우, 당연히 F 입니다. 이미 많은 분들이 좌절을 했으니 무리하진 마시기 바랍니다.
-
-<div class="tenor-gif-embed" data-postid="12389137" data-share-method="host" data-width="100%" data-aspect-ratio="0.9879518072289156"><a href="https://tenor.com/view/trying-to-get-through-the-week-weekdays-tough-week-gif-12389137">Trying To Get Through The Week Weekdays GIF</a> from <a href="https://tenor.com/search/tryingtogetthroughtheweek-gifs">Tryingtogetthroughtheweek GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 #### Lab - Magic Square
 1) 링크 - https://github.com/TEAMLAB-Lecture/python-mooc/blob/master/2019-spring/lab_assignment/lab_ex_1/READMD.md
